@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.14.0rc2-slim-trixie
 nginx:stable-perl
+alpine:latest
